@@ -18,3 +18,5 @@ Digunakan untuk membuat folder baru
 - `mv`
 Digunakan untuk melakukan memindahkan, cut atau rename file.
 
+- `touch`
+Digunakan untuk membuat file baru.
