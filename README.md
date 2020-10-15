@@ -18,6 +18,9 @@ Digunakan untuk membuat folder baru
 - `mv`
 Digunakan untuk melakukan memindahkan, cut atau rename file.
 
+- `rmdir`
+Digunakan untuk menghapus folder
+
 - `touch`
 Digunakan untuk membuat file baru.
 
