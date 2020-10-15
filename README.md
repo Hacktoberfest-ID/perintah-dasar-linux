@@ -29,3 +29,6 @@ Digunakan untuk menambah user baru.
 
 - ` halt`
 Digunakan untuk mematikan komputer, namun harus sebagai root.
+
+- `adduser`
+Digunakan untuk menambah user baru
