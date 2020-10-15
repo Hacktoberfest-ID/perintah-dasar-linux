@@ -20,3 +20,12 @@ Digunakan untuk melakukan memindahkan, cut atau rename file.
 
 - `rmdir`
 Digunakan untuk menghapus folder
+
+- `touch`
+Digunakan untuk membuat file baru.
+
+- `adduser`
+Digunakan untuk menambah user baru.
+
+- ` halt`
+Digunakan untuk mematikan komputer, namun harus sebagai root.
