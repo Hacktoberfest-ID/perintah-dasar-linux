@@ -47,3 +47,6 @@ Digunakan untuk menghapus file
 
 - `nano`
 Digunakan untuk mengedit/mengubah/membuat sebuah file
+
+- `ls`
+Digunakan untuk memperlihatkan list file atau folder
