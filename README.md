@@ -11,3 +11,6 @@ Digunakan untuk memperlihatkan di direktori mana posisi kita berada
 
 - `cp`
 Digunakan untuk melakukan copy file
+
+- `mv`
+Digunakan untuk melakukan memindahkan, cut atau rename file.
