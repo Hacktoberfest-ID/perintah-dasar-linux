@@ -56,3 +56,8 @@ Digunakan untuk menghapus user
 
 - `history`
 Melihat perintah apa saja yang pernah diketik
+
+- `ls`
+Untuk menglist atau memperlihatkan beberapa file dan folder
+
+
