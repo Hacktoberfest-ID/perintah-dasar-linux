@@ -38,3 +38,6 @@ Digunakan untuk membersihkan layar
 
 - `ifconfig`
 Digunakan untuk melihat ip jaringan 
+
+- `rm`
+Digunakan untuk menghapus file
