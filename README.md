@@ -45,3 +45,5 @@ Digunakan untuk melihat ip jaringan wlan
 - `rm`
 Digunakan untuk menghapus file
 
+- `nano`
+Digunakan untuk mengedit/mengubah/membuat sebuah file
