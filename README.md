@@ -23,3 +23,6 @@ Digunakan untuk membuat file baru.
 
 - `adduser`
 Digunakan untuk menambah user baru.
+
+- ` halt`
+Digunakan untuk mematikan komputer, namun harus sebagai root.
