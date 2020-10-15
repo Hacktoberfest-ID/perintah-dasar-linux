@@ -50,3 +50,6 @@ Digunakan untuk mengedit/mengubah/membuat sebuah file
 
 - `ls`
 Digunakan untuk memperlihatkan list file atau folder
+
+- `deluser`
+Digunakan untuk menghapus user :'V
