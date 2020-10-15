@@ -45,3 +45,5 @@ Digunakan untuk melihat ip jaringan wlan
 - `rm`
 Digunakan untuk menghapus file
 
+- `ls`
+Digunakan untuk memperlihatkan list file atau folder
