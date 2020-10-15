@@ -35,3 +35,6 @@ Digunakan untuk menambah user baru
 
 - `clear`
 Digunakan untuk membersihkan layar
+
+- `ifconfig`
+Digunakan untuk melihat ip jaringan 
