@@ -20,3 +20,6 @@ Digunakan untuk melakukan memindahkan, cut atau rename file.
 
 - `touch`
 Digunakan untuk membuat file baru.
+
+- `adduser`
+Digunakan untuk menambah user baru.
