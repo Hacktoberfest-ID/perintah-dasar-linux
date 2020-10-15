@@ -8,3 +8,6 @@ Digunakan untuk berpindah direktori
 
 - `pwd`
 Digunakan untuk memperlihatkan di direktori mana posisi kita berada 
+
+- `cp`
+Digunakan untuk melakukan copy file
