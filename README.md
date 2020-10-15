@@ -14,3 +14,7 @@ Digunakan untuk melakukan copy file
 
 - `mkdir`
 Digunakan untuk membuat folder baru
+
+- `mv`
+Digunakan untuk melakukan memindahkan, cut atau rename file.
+
