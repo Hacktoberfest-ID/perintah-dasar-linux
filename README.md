@@ -5,3 +5,6 @@ Digunakan untuk login sebagai root/pengguna tertinggi
 
 - `cd`
 Digunakan untuk berpindah direktori
+
+- `pwd`
+Digunakan untuk memperlihatkan di direktori mana posisi kita berada 
