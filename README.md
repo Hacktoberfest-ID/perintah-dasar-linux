@@ -39,5 +39,9 @@ Digunakan untuk membersihkan layar
 - `ifconfig`
 Digunakan untuk melihat ip jaringan 
 
+- `iwconfig`
+Digunakan untuk melihat ip jaringan wlan
+
 - `rm`
 Digunakan untuk menghapus file
+
