@@ -52,4 +52,7 @@ Digunakan untuk mengedit/mengubah/membuat sebuah file
 Digunakan untuk memperlihatkan list file atau folder
 
 - `deluser`
-Digunakan untuk menghapus user :'V
+Digunakan untuk menghapus user
+
+- `history`
+Melihat perintah apa saja yang pernah diketik
