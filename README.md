@@ -32,3 +32,6 @@ Digunakan untuk mematikan komputer, namun harus sebagai root.
 
 - `adduser`
 Digunakan untuk menambah user baru
+
+- `clear`
+Digunakan untuk membersihkan layar
