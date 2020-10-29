@@ -65,3 +65,6 @@ Melihat sisa kapasitas harddisk.
 
 - `mount`
 Untuk melampirkan file
+
+- `kate`
+Untuk membuka teks editor
