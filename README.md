@@ -62,3 +62,6 @@ Untuk menglist atau memperlihatkan beberapa file dan folder
 
 - `df -h`
 Melihat sisa kapasitas harddisk.
+
+- `mount`
+Untuk melampirkan file
