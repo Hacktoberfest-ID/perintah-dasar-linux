@@ -49,7 +49,7 @@ Digunakan untuk menghapus file
 Digunakan untuk mengedit/mengubah/membuat sebuah file
 
 - `ls`
-Digunakan untuk memperlihatkan list file atau folder
+Digunakan untuk memperlihatkan list file atau folder.
 
 - `deluser`
 Digunakan untuk menghapus user
@@ -58,7 +58,7 @@ Digunakan untuk menghapus user
 Melihat perintah apa saja yang pernah diketik
 
 - `ls`
-Untuk menglist atau memperlihatkan beberapa file dan folder
+Untuk menglist atau memperlihatkan beberapa file dan folder.
 
 - `df -h`
 Melihat sisa kapasitas harddisk.
