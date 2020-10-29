@@ -68,3 +68,6 @@ Untuk melampirkan file
 
 - `kate`
 Untuk membuka teks editor
+
+- `sed`
+Untuk melakukan filter teks
