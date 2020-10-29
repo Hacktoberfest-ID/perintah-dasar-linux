@@ -60,4 +60,5 @@ Melihat perintah apa saja yang pernah diketik
 - `ls`
 Untuk menglist atau memperlihatkan beberapa file dan folder
 
-
+- `df -h`
+Melihat sisa kapasitas harddisk.
