@@ -71,3 +71,6 @@ Untuk membuka teks editor
 
 - `sed`
 Untuk melakukan filter teks
+
+- `top`
+Untuk melihat proses secara urut
